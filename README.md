@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Abhishek Bansal
+- 👋 Hi, I’m Abhishek Bansal
 - 👀 I’m interested in Cyber forensic , AI , and Machine Leanring 
 -- 📫 How to reach me: abhishek.bansal@igntu.ac.in 
 
