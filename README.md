@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Dr. Abhishek Bansal
 - 👀 I’m interested in Cyber forensic , AI , and Machine Leanring 
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+-- 📫 How to reach me: abhishek.bansal@igntu.ac.in 
 
 <!---
 abhiigntu/abhiigntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
